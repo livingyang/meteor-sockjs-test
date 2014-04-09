@@ -1,0 +1,17 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "sockjs": {
+        "version": "0.1.0"
+      }
+    },
+    "packages": {
+      "sockjs": {
+        "git": "https://github.com/livingyang/meteor-sockjs.git",
+        "tag": "v0.1.0",
+        "commit": "1fcdd3b873ca265085e6dae40c5eacc0213d8706"
+      }
+    }
+  }
+}
