@@ -6,7 +6,7 @@ meteor sockjs test project
 Usage
 =====
 
-1 add sockjs package `mrt add sockjs`
+1 install sockjs package `mrt install`
 
 2 start meteor
 
